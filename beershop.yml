@@ -5,4 +5,4 @@ spring:
     url: jdbc:postgresql:postgres
     username: postgres
 server:
-  port: 8082
+  port: 0
