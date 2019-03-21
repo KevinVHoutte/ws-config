@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: beershop
+  datasource:
+    url: jdbc:postgresql:postgres
+    username: postgres
+server:
+  port: 8082
